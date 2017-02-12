@@ -1,0 +1,19 @@
+{
+  "name": "online_game",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.14.1",
+    "socket.io": "^1.7.1"
+  },
+  "engines": {
+    "node": "4.1.x"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "kamen",
+  "license": "ISC",
+  "description": ""
+}
